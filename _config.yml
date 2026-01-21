@@ -22,7 +22,7 @@ repository               : "aniketprasadastro/aniketprasadastro.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_4053.JPG"
+  avatar           : "profile_pic.jpeg"
   name             : "Aniket Prasad"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "An engineering physics graduate turned astronomer looking to unravel the mysteries of the universe through my experiences with observational astronomy"
